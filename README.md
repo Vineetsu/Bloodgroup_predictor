@@ -1,16 +1,31 @@
-# app
+# Blood Group Predictor
 
-A new Flutter project.
+*Simple yet powerful Flutter app to predict possible child blood groups based on parents' blood groups.*
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+##  Features
 
-A few resources to get you started if this is your first Flutter project:
+- Input mother’s and father’s blood group (ABO + Rh) via dropdown menus.
+- On clicking **Predict**, displays all possible child blood groups along with percentages.
+- Sleek and user-friendly UI using Flutter and Google Fonts.
+- Genetic logic is encapsulated but never exposed—UI-focused improvements keep core logic untouched.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##  Demo
+
+Insert your app’s screenshot or icon below. For example:
+
+![Blood Group Predictor App Screenshot](assets/images/screenshot.png)
+
+
+---
+
+##  Installation
+
+```bash
+git clone https://github.com/Vineetsu/Bloodgroup_predictor.git
+cd Bloodgroup_predictor
+flutter pub get
+flutter run
