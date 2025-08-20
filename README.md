@@ -17,7 +17,7 @@
 
 Insert your app’s screenshot or icon below. For example:
 
-![Blood Group Predictor App Screenshot](assets/images/screenshot.png)
+![Blood Group Predictor App Screenshot](demo.png)
 
 
 ---
@@ -29,3 +29,4 @@ git clone https://github.com/Vineetsu/Bloodgroup_predictor.git
 cd Bloodgroup_predictor
 flutter pub get
 flutter run
+
